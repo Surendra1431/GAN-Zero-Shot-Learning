@@ -73,3 +73,5 @@ Make sure you have **Python 3.7+** installed. Then install the required dependen
 
 ```bash
 pip install tensorflow scikit-learn tqdm matplotlib seaborn keras-tuner
+![image](https://github.com/user-attachments/assets/4a7b592d-4535-47cb-964f-8d164d8791f7)
+
