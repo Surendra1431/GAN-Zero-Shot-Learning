@@ -63,7 +63,7 @@ This project is built on the **CUB-200-2011** dataset, a well-known benchmark fo
 ### 🔑 5️⃣ Attribute Mapping Model
 - **Input**: `Feature vectors`
 - **Output**: `Predicted class attributes`
-
+![image](https://github.com/user-attachments/assets/4a7b592d-4535-47cb-964f-8d164d8791f7)
 ---
 
 ## 🛠 Installation & Setup
@@ -73,5 +73,5 @@ Make sure you have **Python 3.7+** installed. Then install the required dependen
 
 ```bash
 pip install tensorflow scikit-learn tqdm matplotlib seaborn keras-tuner
-![image](https://github.com/user-attachments/assets/4a7b592d-4535-47cb-964f-8d164d8791f7)
+
 
